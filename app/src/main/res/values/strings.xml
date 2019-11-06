@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stream of Thought</string>
+    <string name="edit_message">Enter A URL</string>
+    <string name="button_send">Go</string>
+    <string name="up_button">^</string>
+    <string name="down_button">v</string>
+    <string name="left_button">&lt;</string>
+    <string name="right_button">&gt;</string>
+</resources>
